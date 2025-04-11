@@ -32,6 +32,21 @@ This project analyzes customer product reviews from e-commerce platforms using N
 1. Clone the repo
 ```bash
 git clone https://github.com/Arfat-sharda/sentiment-analysis.git
-cd sentiment-analysis
-pip install -r requirements.txt
-python main.py
+
+📊 Example Output
+
+Input Review: "The delivery was super fast and the product is amazing!"
+Predicted Sentiment: Positive
+✅ Future Improvements
+
+Add deep learning model (LSTM / BERT)
+Deploy using Streamlit or Flask
+Expand to multilingual sentiment analysis
+👨‍💻 Author
+
+Syed Arfat Hussain
+📧 Email: syedarfat0305@gmail.com
+🔗 LinkedIn
+💻 GitHub
+
+
