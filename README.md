@@ -35,7 +35,7 @@ A powerful AI-based sentiment analysis tool that classifies text reviews as Posi
 ```bash
 # Clone the repo
 git clone https://github.com/Arfat-sharda/sentiment-analysis.git
-cd sentiment-analysis![Uploading Screenshot 2025-04-11 at 6.30.53 AM.png…]()
+cd sentiment-analysis!
 
 
 # Install dependencies
