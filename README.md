@@ -3,8 +3,6 @@
 Understand the emotions behind the words. 😊  
 A powerful AI-based sentiment analysis tool that classifies text reviews as Positive, Negative, or Neutral using Natural Language Processing (NLP).
 
-![Project Screenshot]('/Users/arfathussain/Desktop/Screenshot 2025-04-11 at 6.30.53 AM.png')
-
 ---
 
 ## 💻 Features
@@ -32,21 +30,13 @@ A powerful AI-based sentiment analysis tool that classifies text reviews as Posi
 3. Predicts sentiment: `Positive`, `Negative`, or `Neutral`.
 4. Shows prediction result and plots sentiment distribution graph.
 
----
-
-## 📸 UI Snapshots
-
-### 🔹 Hero Section
-![Hero Screenshot](./Screenshot%202025-04-11%20at%206.30.55%20AM.png)
-
----
-
 ## 🚀 Setup Instructions
 
 ```bash
 # Clone the repo
 git clone https://github.com/Arfat-sharda/sentiment-analysis.git
-cd sentiment-analysis
+cd sentiment-analysis![Uploading Screenshot 2025-04-11 at 6.30.53 AM.png…]()
+
 
 # Install dependencies
 pip install -r requirements.txt
