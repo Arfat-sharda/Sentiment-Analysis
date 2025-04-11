@@ -3,7 +3,7 @@
 Understand the emotions behind the words. 😊  
 A powerful AI-based sentiment analysis tool that classifies text reviews as Positive, Negative, or Neutral using Natural Language Processing (NLP).
 
-![Project Screenshot](./Screenshot%202025-04-11%20at%206.30.53%20AM.png)
+![Project Screenshot]('/Users/arfathussain/Desktop/Screenshot 2025-04-11 at 6.30.53 AM.png')
 
 ---
 
