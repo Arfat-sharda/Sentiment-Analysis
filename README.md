@@ -1,52 +1,60 @@
-# 🧠 Sentiment Analysis on E-commerce Reviews
+# 🧠 Text Sentiment Prediction
 
-This project analyzes customer product reviews from e-commerce platforms using Natural Language Processing (NLP) to determine their sentiment — **Positive**, **Negative**, or **Neutral**.
+Understand the emotions behind the words. 😊  
+A powerful AI-based sentiment analysis tool that classifies text reviews as Positive, Negative, or Neutral using Natural Language Processing (NLP).
 
----
-
-## 🚀 Features
-
-- Preprocesses and cleans review text
-- Converts text into numerical features using TF-IDF
-- Trains a machine learning model (Logistic Regression)
-- Predicts sentiment of unseen reviews
-- Displays visual insights like sentiment distribution
+![Project Screenshot](./Screenshot%202025-04-11%20at%206.30.53%20AM.png)
 
 ---
 
-## 🛠 Tech Stack
+## 💻 Features
 
-- **Python**
-- **Libraries:** NLTK, Scikit-learn, Pandas, NumPy, Matplotlib, Seaborn
-- **Model:** Logistic Regression / Naive Bayes
-
----
-
-## 📂 Folder Structure
-
+- 🔍 Predict sentiment from any text input.
+- 📁 Upload CSV files to analyze multiple reviews at once.
+- 📊 Get graphical representation of sentiments.
+- 🌐 Clean and responsive web interface using HTML & CSS.
 
 ---
 
-## 💻 How to Run
+## ⚙️ Tech Stack
 
-1. Clone the repo
+- **Frontend**: HTML, CSS, JavaScript
+- **Backend**: Python (Flask / FastAPI)
+- **ML/NLP**: Scikit-learn, Pandas, NLTK
+- **Visualization**: Matplotlib / Seaborn (for graph result)
+
+---
+
+## 🧪 How It Works
+
+1. User inputs text or uploads a CSV file.
+2. The model processes the text using NLP.
+3. Predicts sentiment: `Positive`, `Negative`, or `Neutral`.
+4. Shows prediction result and plots sentiment distribution graph.
+
+---
+
+## 📸 UI Snapshots
+
+### 🔹 Hero Section
+![Hero Screenshot](./Screenshot%202025-04-11%20at%206.30.55%20AM.png)
+
+---
+
+## 🚀 Setup Instructions
+
 ```bash
+# Clone the repo
 git clone https://github.com/Arfat-sharda/sentiment-analysis.git
+cd sentiment-analysis
 
-📊 Example Output
+# Install dependencies
+pip install -r requirements.txt
 
-Input Review: "The delivery was super fast and the product is amazing!"
-Predicted Sentiment: Positive
-✅ Future Improvements
+# Run the app
+python app.py
 
-Add deep learning model (LSTM / BERT)
-Deploy using Streamlit or Flask
-Expand to multilingual sentiment analysis
-👨‍💻 Author
-
-Syed Arfat Hussain
-📧 Email: syedarfat0305@gmail.com
-🔗 LinkedIn
-💻 GitHub
+📬 Connect with Me
+📧 syedarfat0305@gmail.com
 
 
